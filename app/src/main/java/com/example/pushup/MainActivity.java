@@ -22,4 +22,8 @@ public class MainActivity extends AppCompatActivity {
         int j = 10;
 
     }
+    private void testUploadBranch2(){
+        int k = 100;
+
+    }
 }
